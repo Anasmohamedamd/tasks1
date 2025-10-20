@@ -1,7 +1,9 @@
 Marvel Landing Page:
+
 A cinematic, responsive landing page inspired by Marvel movies. This project features a full-screen hero section with a background image, a sticky navbar, and a footer with social icons. Built using HTML and CSS only.
 
 Features:
+
 1.Responsive Design: Works perfectly on desktop, tablet, and mobile devices.
 2.Sticky Navbar: Always visible at the top of the page.
 3.Hero Section: Full-screen background with overlay, title, description, and call-to-action button.
@@ -11,6 +13,7 @@ Features:
 7.Cinematic Overlay: Dark gradient over hero image ensures readability.
 
 Technologies Used
+
 1.HTML5 – Semantic markup
 2.CSS3 – Flexbox, gradients, transitions, responsive design
 3.Font Awesome – Social media icons
